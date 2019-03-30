@@ -1,2 +1,1 @@
-# winA
-this is for windows 
+This rep is for practice C. 
